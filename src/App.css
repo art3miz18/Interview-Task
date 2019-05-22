@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.graph{
+  border: 2px solid black;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.head-graph{
+  font-weight: bold;
+}
+
+.map-data{
+  border:2px solid black;
+  padding:5px;
+  margin-top:20px;
+}
+
+.italics{
+  font-size: 10px;
+  font-style: italic;
+}
